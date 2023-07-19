@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dororeo
+- 👋 Hi, I’m @dororeo, aspiring Frontend Developer passionate about innovative UX
 - 🌱 I’m currently learning Software Engineering Immersive @ General Assembly
 - 💬 Ask me anything about the Marvel Cinematic Universe! 🦸‍♂️
 - 📫 Drop me an email @ dorothealimhuiying@gmail.com
